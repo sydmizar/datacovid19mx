@@ -12,7 +12,7 @@ Este repositorio es actualizado diariamente con datos oficiales:
 * `covid_mexico_17032020.csv`: Se convierten a formato CSV, los archivos PDF publicados por la Secretaría de Salud.
 * `COVID-19-geographic-disbtribution-worldwide-2020-03-17.csv`: Se mantiene los datos en formato CSV como se publican en ECDC.
 * `Tabla_casos_positivos_resultado_InDRE_2020.03.17.pdf`: Formato original publicado en https://www.gob.mx/salud/documentos/nuevo-coronavirus-2019-ncov-comunicado-tecnico-diario, se resguarda `histórico desde el 14 de Marzo de 2020` (primera vez que se publicó este formato).
-* `Tabla_casos_sospechosos_COVID-19_2020.03.17.pdf`: Formato original publicado en https://www.gob.mx/salud/documentos/nuevo-coronavirus-2019-ncov-comunicado-tecnico-diario, se tiene ``histórico desde el 1 de Marzo de 2020` (fecha en que se identificó este portal).
+* `Tabla_casos_sospechosos_COVID-19_2020.03.17.pdf`: Formato original publicado en https://www.gob.mx/salud/documentos/nuevo-coronavirus-2019-ncov-comunicado-tecnico-diario, se tiene `histórico desde el 1 de Marzo de 2020` (fecha en que se identificó este portal).
 
 ## Gráficas Latinoamérica
 Se presentan gráficas preliminares de la Evolución del COVID19 en paises de la región LATAM.
