@@ -15,8 +15,8 @@ Este repositorio es actualizado diariamente con datos oficiales:
 * `Tabla_casos_sospechosos_COVID-19_2020.03.17.pdf`: Formato original publicado en https://www.gob.mx/salud/documentos/nuevo-coronavirus-2019-ncov-comunicado-tecnico-diario, se tiene ``histórico desde el 1 de Marzo de 2020` (fecha en que se identificó este portal).
 
 ## Gráficas Latinoamérica
-* Evolución del COVID19 en paises de la región LATAM.
-### Fechas de los primeros casos confirmados:
+Se presentan gráficas preliminares de la Evolución del COVID19 en paises de la región LATAM.
+### Fechas de los primeros casos confirmados día 0 por país (en caso identificar una fecha mal no duden en notificar):
 * Argentina:				04/03/2020
 * Bolivia:					12/03/2020
 * Brazil:					26/02/2020
