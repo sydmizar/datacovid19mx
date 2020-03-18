@@ -11,29 +11,29 @@ Este repositorio es actualizado diariamente con datos oficiales:
 ## Archivos dentro del repositorio
 * `covid_mexico_17032020.csv`: Se convierten a formato CSV, los archivos PDF publicados por la Secretaría de Salud.
 * `COVID-19-geographic-disbtribution-worldwide-2020-03-17.csv`: Se mantiene los datos en formato CSV como se publican en ECDC.
-* `Tabla_casos_positivos_resultado_InDRE_2020.03.17.pdf`: Formato original publicado en https://www.gob.mx/salud/documentos/nuevo-coronavirus-2019-ncov-comunicado-tecnico-diario, se resguarda historico desde el 14 de Marzo de 2020 (primera vez que se publicó este formato).
-* `Tabla_casos_sospechosos_COVID-19_2020.03.17.pdf`: Formato original publicado en https://www.gob.mx/salud/documentos/nuevo-coronavirus-2019-ncov-comunicado-tecnico-diario, se tiene historico desde el 1 de Marzo de 2020 (fecha en que se identificó este portal).
+* `Tabla_casos_positivos_resultado_InDRE_2020.03.17.pdf`: Formato original publicado en https://www.gob.mx/salud/documentos/nuevo-coronavirus-2019-ncov-comunicado-tecnico-diario, se resguarda `histórico desde el 14 de Marzo de 2020` (primera vez que se publicó este formato).
+* `Tabla_casos_sospechosos_COVID-19_2020.03.17.pdf`: Formato original publicado en https://www.gob.mx/salud/documentos/nuevo-coronavirus-2019-ncov-comunicado-tecnico-diario, se tiene ``histórico desde el 1 de Marzo de 2020` (fecha en que se identificó este portal).
 
 ## Gráficas Latinoamérica
 * Evolución del COVID19 en paises de la región LATAM.
 ### Fechas de los primeros casos confirmados:
-* Argentina				04/03/2020
-* Bolivia					12/03/2020
-* Brazil					26/02/2020
-* Chile					  04/03/2020		
-* Colombia				07/03/2020
-* Costa Rica			07/03/2020
-* Cuba					  12/03/2020
-* Ecuador					01/03/2020
-* El Salvador     Sin casos confirmados
-* Guatemala				15/03/2020
-* Honduras				12/03/2020
-* México					27/03/2020
-* Nicaragua       Sin casos confirmados
-* Panamá					10/03/2020
-* Paraguay				08/03/2020
-* Perú					  07/03/2020
-* Puerto Rico     Sin casos confirmados
-* República Dominicana	02/03/2020
-* Uruguay					15/03/2020
-* Venezuela				15/03/2020
+* Argentina:				04/03/2020
+* Bolivia:					12/03/2020
+* Brazil:					26/02/2020
+* Chile:					  04/03/2020		
+* Colombia:				07/03/2020
+* Costa Rica:			07/03/2020
+* Cuba:					  12/03/2020
+* Ecuador:					01/03/2020
+* El Salvador:     Sin casos confirmados
+* Guatemala:				15/03/2020
+* Honduras:				12/03/2020
+* México:					27/03/2020
+* Nicaragua;       Sin casos confirmados
+* Panamá:					10/03/2020
+* Paraguay:				08/03/2020
+* Perú:					  07/03/2020
+* Puerto Rico:     Sin casos confirmados
+* República Dominicana:	02/03/2020
+* Uruguay:					15/03/2020
+* Venezuela:				15/03/2020
